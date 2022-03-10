@@ -10,3 +10,5 @@
 - Slash command ve app özelliği içerisinde mevcuttur.
 - Diğer paylaşımcılar gibi altyapının heryerine niwren yazmakla uğraşamadım çünkü istediğim kadar yazıyım tek tuşla hepsi aynı anda değiştiriliebilir.
 - Bir sorun olursa bana(Niwren#9999) ulaşmayı unutmayınız.
+- Unutmadan Star atarsanız sevinirim altyapının hypelanması beni motirve ediyor :3 
+- 50 Starda Cooldown ile yapılmış guard&database botu paylaşılacaktır.
