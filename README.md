@@ -9,6 +9,6 @@
 - Yayınlanma tarihi ortalama 20.03.2022-25.03.2022 olarak belirledim
 - Slash command ve app özelliği içerisinde mevcuttur.
 - Diğer paylaşımcılar gibi altyapının heryerine niwren yazmakla uğraşamadım çünkü istediğim kadar yazıyım tek tuşla hepsi aynı anda değiştiriliebilir.
-- Bir sorun olursa bana(Niwren#9999) ulaşmayı unutmayınız.
+- Bir sorun olursa bana(Niwren#1896) ulaşmayı unutmayınız.
 - Unutmadan Star atarsanız sevinirim altyapının hypelanması beni motirve ediyor :3 
 - 50 Starda Cooldown ile yapılmış guard&database botu paylaşılacaktır.
