@@ -1,4 +1,4 @@
-# v13--discord-mod-stat-invite-register
+# v13-discord-mod-stat-invite-register
 
 # Açıklama
 
@@ -6,7 +6,7 @@
 - Proje pm2 kullanmadan sizin 4 bot kontrol etmenizi sağlayacak. Bu da pm2 öğrenmenizi gerektirmeyecek.
 - Ayrıca bu altyapıyı kullandıktan sonra size gelip Niwren atyapısı kullanıyorsun diyenlere cevap olarak bu açıklamayı gösterebilirsiniz. Herkes istediği altyapıyı kullanabilir ve kimse buna tek kelime edemez. 
 - Altyapı mongodb database ile yazılıp son sürüm v13 yapılıcaktır.
-- Yayınlanma tarihi ortalama 20.03.2022-25.03.2022 olarak belirledim
+- Yayınlanma tarihi ortalama 25.03.2022-30.03.2022 olarak belirledim.(bazı gecikmeler oldu sorry)
 - Slash command ve app özelliği içerisinde mevcuttur.
 - Diğer paylaşımcılar gibi altyapının heryerine niwren yazmakla uğraşamadım çünkü istediğim kadar yazıyım tek tuşla hepsi aynı anda değiştiriliebilir.
 - Bir sorun olursa bana(Niwren#1896) ulaşmayı unutmayınız.
