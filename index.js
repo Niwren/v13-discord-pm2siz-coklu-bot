@@ -31,7 +31,9 @@ const { Client, Collection } = require("discord.js"),
         İnvite = Bot.user.id == Bots[1];
         Stats = Bot.user.id == Bots[2];
         Audit = Bot.user.id == Bots[3];
-
+/* 
+Collectionı tek bir tane açıp içinde ayırabilirdim ancak anlaşılırlığı kolay olması adına böyle yaptım
+*/
         Moderation.commands = new Collection(); 
         İnvite.commands = new Collection(); 
         Stats.commands = new Collection();
