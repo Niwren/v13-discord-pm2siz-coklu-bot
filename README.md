@@ -1,5 +1,5 @@
 # v13-discord-mod-stat-invite-register
-
+Bana Ulaşmak için [discord.gg/minnies](https://discord.gg/minnies) sunucusuna katılabilirsiniz.
 # Açıklama
 
 - Uzun zamandır github üzerinden proje paylaşımı yapmıyordum çünkü o kadar çok bot paylaşıldıki gerek olduğunu düşünmedim ancak son zamanlarda bu botların ortak bazı eksiklerinin olduğunu farkettim ve sizler için bir proje yapmaya başladım.
